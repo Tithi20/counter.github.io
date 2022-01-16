@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url("https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg");
+  height: 100%;
+  background-position: center;
+
+  background-size: fill;
+}
+
+#heading {
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+#count {
+  text-align: center;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#buttons {
+  padding: 10px;
+  text-align: center;
+}
